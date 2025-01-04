@@ -16,9 +16,6 @@
 
 This project aims to develop an automatic text summarization system for news articles using Seq2Seq models with TensorFlow. The project encompasses dataset preparation, model development, training, evaluation, and analysis of results. The employed model features an Encoder-Decoder architecture enhanced with an attention mechanism, designed to generate meaningful and concise summaries from extensive news articles.
 
-
-## Getting Started
-
 ### Prerequisites
 
 - **Python 3.7 or higher**
