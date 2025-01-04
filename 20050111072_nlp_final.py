@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1qYaFiLOQ6h6thbq9t-OScRddtJnp1T_S
 """
 
-!pip install rouge
-!pip install pyarrow
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
